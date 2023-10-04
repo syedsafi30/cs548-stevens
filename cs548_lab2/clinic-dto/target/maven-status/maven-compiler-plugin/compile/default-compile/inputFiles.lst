@@ -1,0 +1,13 @@
+/Users/syedsafi/Downloads/Assignment-Code/clinic-dto/src/main/java/edu/stevens/cs548/clinic/service/dto/DrugTreatmentDto.java
+/Users/syedsafi/Downloads/Assignment-Code/clinic-dto/src/main/java/edu/stevens/cs548/clinic/service/dto/util/GsonFactory.java
+/Users/syedsafi/Downloads/Assignment-Code/clinic-dto/src/main/java/edu/stevens/cs548/clinic/service/dto/util/LocalDateSerializer.java
+/Users/syedsafi/Downloads/Assignment-Code/clinic-dto/src/main/java/edu/stevens/cs548/clinic/service/dto/PatientDtoFactory.java
+/Users/syedsafi/Downloads/Assignment-Code/clinic-dto/src/main/java/edu/stevens/cs548/clinic/service/dto/TreatmentDtoFactory.java
+/Users/syedsafi/Downloads/Assignment-Code/clinic-dto/src/main/java/edu/stevens/cs548/clinic/service/dto/PhysiotherapyTreatmentDto.java
+/Users/syedsafi/Downloads/Assignment-Code/clinic-dto/src/main/java/edu/stevens/cs548/clinic/service/dto/ProviderDto.java
+/Users/syedsafi/Downloads/Assignment-Code/clinic-dto/src/main/java/edu/stevens/cs548/clinic/service/dto/RadiologyTreatmentDto.java
+/Users/syedsafi/Downloads/Assignment-Code/clinic-dto/src/main/java/edu/stevens/cs548/clinic/service/dto/TreatmentDto.java
+/Users/syedsafi/Downloads/Assignment-Code/clinic-dto/src/main/java/edu/stevens/cs548/clinic/service/dto/ProviderDtoFactory.java
+/Users/syedsafi/Downloads/Assignment-Code/clinic-dto/src/main/java/edu/stevens/cs548/clinic/service/dto/SurgeryTreatmentDto.java
+/Users/syedsafi/Downloads/Assignment-Code/clinic-dto/src/main/java/edu/stevens/cs548/clinic/service/dto/util/RuntimeTypeAdapterFactory.java
+/Users/syedsafi/Downloads/Assignment-Code/clinic-dto/src/main/java/edu/stevens/cs548/clinic/service/dto/PatientDto.java

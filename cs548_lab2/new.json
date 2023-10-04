@@ -1,0 +1,86 @@
+{
+  "patients": [
+    {
+      "id": "9630c601-ef38-4709-901e-57f729f52aac",
+      "name": "amul",
+      "dob": "1995-01-09",
+      "treatments": [
+        {
+          "type-tag": "ABCDE",
+          "drug": "java",
+          "dosage": 2.0,
+          "start-date": "2023-02-09",
+          "end-date": "2024-02-09",
+          "frequency": 2,
+          "id": "f2558bbf-d0fe-499c-9378-70aab7e75feb",
+          "patient-id": "9630c601-ef38-4709-901e-57f729f52aac",
+          "patient-name": "amul",
+          "provider-id": "68803b59-d5c3-466b-a782-c6a37c06ff95",
+          "provider-name": "hospital",
+          "diagnosis": "amul needs drugs to treat his oversmart coding skills",
+          "followup-treatments": []
+        }
+      ]
+    },
+    {
+      "id": "5871deb5-1344-4b4b-be4f-7fd0c2626b5d",
+      "name": "safi",
+      "dob": "1998-11-30",
+      "treatments": [
+        {
+          "type-tag": "RADIOLOGY",
+          "treatment-dates": [
+            "2022-11-11",
+            "2023-11-11"
+          ],
+          "id": "e1b9c2ed-cd06-4226-b2e2-4323dfe327a5",
+          "patient-id": "5871deb5-1344-4b4b-be4f-7fd0c2626b5d",
+          "patient-name": "safi",
+          "provider-id": "423fee5c-b857-4641-b0c3-609a066ca27a",
+          "provider-name": "apollo",
+          "diagnosis": "reg",
+          "followup-treatments": []
+        }
+      ]
+    }
+  ],
+  "providers": [
+    {
+      "id": "423fee5c-b857-4641-b0c3-609a066ca27a",
+      "npi": "74",
+      "name": "apollo",
+      "treatments": [
+        {
+          "type-tag": "RADIOLOGY",
+          "treatment-dates": [
+            "2022-11-11",
+            "2023-11-11"
+          ],
+          "id": "e1b9c2ed-cd06-4226-b2e2-4323dfe327a5",
+          "patient-id": "5871deb5-1344-4b4b-be4f-7fd0c2626b5d",
+          "patient-name": "safi",
+          "provider-id": "423fee5c-b857-4641-b0c3-609a066ca27a",
+          "provider-name": "apollo",
+          "diagnosis": "reg",
+          "followup-treatments": []
+        }
+      ]
+    }
+  ],
+  "treatments": [
+    {
+      "type-tag": "RADIOLOGY",
+      "treatment-dates": [
+        "2022-11-11",
+        "2023-11-11"
+      ],
+      "id": "e1b9c2ed-cd06-4226-b2e2-4323dfe327a5",
+      "patient-id": "5871deb5-1344-4b4b-be4f-7fd0c2626b5d",
+      "patient-name": "safi",
+      "provider-id": "423fee5c-b857-4641-b0c3-609a066ca27a",
+      "provider-name": "apollo",
+      "diagnosis": "reg",
+      "followup-treatments": []
+    }
+  ]
+}

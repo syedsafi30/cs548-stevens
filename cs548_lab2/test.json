@@ -1,0 +1,19 @@
+{
+  "patients": [
+    {
+      "id": "0ea0a3f7-3f9a-42c7-a7ad-a513b6b52002",
+      "name": "Amul",
+      "dob": "1995-01-09",
+      "treatments": []
+    }
+  ],
+  "providers": [
+    {
+      "id": "4a9779b0-e115-48cb-90fa-fb8f7334ef35",
+      "npi": "989898",
+      "name": "hospital",
+      "treatments": []
+    }
+  ],
+  "treatments": []
+}
